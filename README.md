@@ -1,11 +1,11 @@
 ### Current Projects
 
-	- [ ] Bread-And-Brenden
-	- [ ] NetworkGrapher
-	- [ ] UCF-Schedule-Tool
-	- [ ] Crawler (C)
-	- [ ] meanness detector bot
-  	- [ ] wikipedia network analysis
+- [ ] Bread-And-Brenden
+- [ ] NetworkGrapher
+- [ ] UCF-Schedule-Tool
+- [ ] Crawler (C)
+- [ ] meanness detector bot
+- [ ] wikipedia network analysis
 
 1. Bread-And-Brenden
 2. NetworkGrapher
