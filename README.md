@@ -1,11 +1,14 @@
 ### Current Projects
 
+### Software
 - [ ] Bread-And-Brenden
 - [ ] NetworkGrapher
 - [ ] UCF-Schedule-Tool
-- [ ] Crawler (C)
 - [ ] meanness detector bot
 - [ ] wikipedia network analysis
+
+### Hardware
+
 
 1. Bread-And-Brenden
 	- Currently working on learning front-end development to 
